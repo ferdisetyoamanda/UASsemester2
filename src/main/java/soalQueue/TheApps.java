@@ -2,7 +2,7 @@ package soalQueue;
 public class TheApps {
     public static void main(String[] args) {
         mainQueue newQueue = new mainQueue(10);
-        newQueue.enqueue(50);
+        newQueue.enqueue(59);
         newQueue.show();
         newQueue.enqueue(60);
         newQueue.show();
